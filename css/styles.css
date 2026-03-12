@@ -36,16 +36,18 @@ a {
     font-size: 16px;
 }
 .page-main {
-    background-color: #2e2f42;
+    background-color: white;
 }
 .title {
+    background-color: #2e2f42;
     color: white;
     font-family: "Roboto", sans-serif;
     font-size: 56px;
 }
-.button:active{
+.button {
     background-color: #4d5ae5;
     color: white;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
+    cursor: pointer;
 }
