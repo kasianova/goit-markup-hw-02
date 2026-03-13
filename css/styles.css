@@ -51,15 +51,17 @@ a {
 .page-main {
     background-color: white;
 }
-.title {
+.page-title {
     background-color: #2e2f42;
+    height: 600px;
+}
+.title {
     color: white;
     font-family: "Roboto", sans-serif;
     font-size: 56px;
     line-height: 60px;
     flex-direction: column;
     display: flex;
-
 }
 .button {
     background-color: #4d5ae5;
