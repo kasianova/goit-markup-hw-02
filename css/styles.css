@@ -56,7 +56,6 @@ a {
     color: white;
     font-family: "Roboto", sans-serif;
     font-size: 56px;
-    height: 600px;
 
 }
 .button {
@@ -68,6 +67,7 @@ a {
     font-weight: medium;
     line-height: 1.5;
     letter-spacing: 4%;
+    position: static;
 
 }
 .button:hover {
