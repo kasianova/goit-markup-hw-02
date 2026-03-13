@@ -18,14 +18,20 @@ a {
     background-color: white;
     color: #2e2f42;
 }
-.logo span {
-    color: #4d5ae5;
+.logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
-    line-height: 1,2;
+    line-height: 1.2;
     font-weight: 700;
+ }
     
+.logo .web {
+    color: #4d5ae5;
 }
+.logo .studio {
+    color: #2e2f42;
+}
+
 .page-nav {
     color: #2e2f42;
     font-family: "Roboto", sans-serif;
