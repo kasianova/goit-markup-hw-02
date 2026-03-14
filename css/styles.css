@@ -53,7 +53,7 @@ a {
 }
 .page-title {
     background-color: #2e2f42;
-    height: 100px;
+    height: 600px;
 }
 .title {
     color: white;
@@ -114,13 +114,47 @@ a {
     font-size: 20px;
     letter-spacing: 2%;
     font-weight: medium;
-    ali
 
 }
 .text-team {
     color: #434455;
     font-size: 16px;
     line-height: 24px;
+    font-family: 'Roboto',sans-serif;
+    letter-spacing: 2%;
+}
+.title-portfolio {
+    color: #2e2f42;
+    font-size: 36px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: bold;
+    letter-spacing: 2%;
+}
+.img-portfolio {
+    height: 300px;
+    width: 360px;
+    background-color: white;
+
+}
+.title-card {
+    font-size: 20px;
+    color: #2e2f42;
+    letter-spacing: 2%;
+    font-family: 'Roboto',sans-serif;
+}
+.text-card {
+    font-size: 16px;
+    color: #434455;
+    font-family: 'Roboto',sans-serif;
+    letter-spacing: 2%;
+}
+.foot {
+    background-color: #2e2f42;
+    height: 312px;
+}
+.text-foot {
+    font-size: 16px;
+    color: #f4f4fd;
     font-family: 'Roboto',sans-serif;
     letter-spacing: 2%;
 }
