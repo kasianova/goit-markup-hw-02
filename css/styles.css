@@ -12,8 +12,10 @@
 .logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.5;
     font-weight: 700;
+    letter-spacing: 0.02em;
+    text-decoration: none;
  }
     
 .logo .web {
@@ -35,7 +37,7 @@ ul {
     letter-spacing: 0.02em;
 
 }
-.page-nav .link:hover
+.page-nav .link:hover,
 .page-nav .link:focus {
     color: #404bbf;
 }
@@ -67,6 +69,7 @@ ul {
     font-size: 56px;
     letter-spacing: 0.02em;
     text-align: center;
+    line-height: 1.5;
 }
 .button {
     background-color: #4d5ae5;
@@ -110,10 +113,6 @@ ul {
     text-align: center;
 }
 
-.img-card {
-    height: 400px;
-    width: 264px;
-}
 .title-team {
     color: #2e2f42;
     font-family: 'Roboto',sans-serif;
@@ -137,14 +136,9 @@ ul {
     font-family: 'Roboto',sans-serif;
     font-weight: bold;
     letter-spacing: 0.02em;
-    text-align: left;
+    text-align: center;
 }
-.img-portfolio {
-    height: 300px;
-    width: 360px;
-    background-color: white;
 
-}
 .title-card {
     font-size: 20px;
     color: #2e2f42;
@@ -167,6 +161,7 @@ ul {
     color: #f4f4fd;
     font-family: 'Roboto',sans-serif;
     letter-spacing: 0.02em;
+    line-height: 1.5;
 }
 .studio-foot {
     color: #f4f4fd;
