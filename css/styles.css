@@ -31,21 +31,20 @@ ul {
     text-decoration: none;
 }
 
-.page-nav {
+.page-nav .list-nav{
     color: #2e2f42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
     letter-spacing: 0.02em;
-    text-decoration: none;
 
 }
-.page-nav:hover,
-.page-nav:focus {
+.page-nav .list-nav:hover,
+.page-nav .list-nav:focus {
     color: #404bbf;
 }
-.page-nav:active {
+.page-nav .list-nav:active {
     color: #404bbf;
     text-decoration: underline;
 }
