@@ -12,7 +12,7 @@
 .logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     font-weight: 700;
     letter-spacing: 0.03em;
     text-decoration: none;
@@ -31,7 +31,7 @@ ul {
     text-decoration: none;
 }
 
-.page-nav {
+.page-nav .link {
     color: #2e2f42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -40,11 +40,11 @@ ul {
     letter-spacing: 0.02em;
 
 }
-.page-nav a:hover,
-.page-nav a:focus {
+.page-nav .link:hover,
+.page-nav .link:focus {
     color: #404bbf;
 }
-.page-nav a:active {
+.page-nav .link:active {
     color: #404bbf;
     text-decoration: underline;
 }
