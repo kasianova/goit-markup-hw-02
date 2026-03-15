@@ -38,6 +38,7 @@ ul {
     line-height: 1.5;
     font-weight: 500;
     letter-spacing: 0.02em;
+    text-decoration: none;
 
 }
 .page-nav:hover,
