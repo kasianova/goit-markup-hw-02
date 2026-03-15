@@ -31,7 +31,7 @@ ul {
     text-decoration: none;
 }
 
-.page-nav .a{
+.page-nav {
     color: #2e2f42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -40,11 +40,11 @@ ul {
     letter-spacing: 0.02em;
 
 }
-.page-nav .a:hover,
-.page-nav .a:focus {
+.page-nav a:hover,
+.page-nav a:focus {
     color: #404bbf;
 }
-.page-nav .a:active {
+.page-nav a:active {
     color: #404bbf;
     text-decoration: underline;
 }
