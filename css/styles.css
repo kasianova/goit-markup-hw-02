@@ -1,4 +1,4 @@
-.page-body {
+body { 
     background-color: white;
     color: #2e2f42;
     font-family: "Roboto", sans-serif;
@@ -31,7 +31,7 @@ ul {
     text-decoration: none;
 }
 
-.page-nav .link {
+.page-nav  {
     color: #2e2f42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -39,14 +39,6 @@ ul {
     font-weight: 500;
     letter-spacing: 0.02em;
 
-}
-.page-nav .link:hover,
-.page-nav .link:focus {
-    color: #404bbf;
-}
-.page-nav .link:active {
-    color: #404bbf;
-    text-decoration: underline;
 }
 .contacts .link {
     color: #434455;
@@ -57,8 +49,8 @@ ul {
     letter-spacing: 0.02em;
 
 }
-.contacts .link:hover,
-.contacts .link:focus {
+.link:hover,
+.link:focus {
     color: #404bbf;
 }
 .page-main {
