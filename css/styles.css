@@ -12,9 +12,9 @@
 .logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 1.2;
     font-weight: 700;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     text-decoration: none;
  }
     
@@ -26,6 +26,9 @@
 }
 ul {
     list-style: none;
+}
+.link {
+    text-decoration: none;
 }
 
 .page-nav .link {
@@ -49,7 +52,7 @@ ul {
     color: #434455;
     font-family: "Roboto",sans-serif;
     font-size: 16px;
-    font-style: 400;
+    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
 
@@ -71,7 +74,7 @@ ul {
     font-size: 56px;
     letter-spacing: 0.02em;
     text-align: center;
-    line-height: 1.5;
+    line-height: 1.0;
 }
 .button {
     background-color: #4d5ae5;
@@ -81,6 +84,7 @@ ul {
     cursor: pointer;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    font-weight: 500;
 
 }
 .button:hover,
@@ -94,7 +98,7 @@ ul {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     letter-spacing: 0.02em;
-    line-height: 1.0;
+    line-height: 1.2;
 }
 .section-text {
     color: #434455;
@@ -112,10 +116,12 @@ ul {
     font-family: 'Roboto',sans-serif;
     font-weight: bold;
     letter-spacing: 0.02em;
-    line-height: 1.1;
+    line-height: 1.11;
     text-align: center;
 }
-
+.team-list {
+    background-color: white;
+}
 .title-team {
     color: #2e2f42;
     font-family: 'Roboto',sans-serif;
@@ -140,6 +146,7 @@ ul {
     font-weight: bold;
     letter-spacing: 0.02em;
     text-align: center;
+    line-height: 1.11;
 }
 
 .title-card {
@@ -150,6 +157,7 @@ ul {
     text-align: left;
     font-weight: 500;
     line-height: 1.2;
+
 }
 .text-card {
     font-size: 16px;
